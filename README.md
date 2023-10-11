@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**NurullahSahin1/NurullahSahin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, I'm Nurullah Şahin! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🚀 Versatile Frontend Developer, React Developer, and Software Developer.
+- ✨ Possess a harmonious personality with a knack for problem-solving.
+- 🔍 Dedicated to staying up-to-date with the latest industry innovations.
+
+## Technologies
+Here are some of the technologies I am well-versed in:
+- ⚛️ React
+- 📜 JavaScript
+- 🎨 HTML/CSS
+- 🐙 Git
+
