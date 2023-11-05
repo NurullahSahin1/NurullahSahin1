@@ -8,11 +8,17 @@
 <p>🚀🚀🚀I have successfully completed many projects and will continue to practice my profession as a react and frontend developer 👩‍💻 very soon.</p>
 <p>🌎 👩‍💻  You can review my repositories and share your opinions with me.</p>
 
+## ⏲ What I'm doing now:
+📃 I design web pages using the HTML-5 writing language.
+📃 I create professional designs for my web pages with advanced CSS applications.
+📃 I can create active and useful web pages and create mobile designs using Javascript codes.
+
+
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" />]
+[<img align="left" height="24" width="24" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />]
+[<img align="left" height="24" width="24" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]
 
 
 <br />
