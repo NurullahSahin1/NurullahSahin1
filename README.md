@@ -16,16 +16,9 @@
 
 ### 📩 Connect with me:
 
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-
-<br />
+![]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 
 
-[instagram]: https://instagram.com/nurullahsahin58?utm_source=qr&igshid=dDFycXZtZm40d2hr
-[linkedin]: https://www.linkedin.com/in/nurullah-%C5%9Fahin-9a07a4290/
-[gmail]: nsahininovation@gmail.com
-[twitter]: https://x.com/NurullahSahin33?t=0xE2pSwEI5PMSYpRcjtT1A&s=08
-<br />
 
 
 
