@@ -14,9 +14,6 @@
 📃 I can create active and useful web pages and create mobile designs using Javascript codes.
 
 
-### 📩 Connect with me:
-
-![]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 
 
 
