@@ -3,15 +3,14 @@
 
 # Hello, I'm Nurullah Şahin! 👋
 
-## About Me
-- 🚀 Versatile Frontend Developer, React Developer, and Software Developer.
-- ✨ Possess a harmonious personality with a knack for problem-solving.
-- 🔍 Dedicated to staying up-to-date with the latest industry innovations.
+I am currently continuing the training organized by Udemig Academy to become a Fronted Developer and React Developer.
+I am constantly focused on renewing and improving myself.
+I have successfully completed many projects and will continue to practice my profession as a react and frontend developer very soon.
+You can review my repositories and share your opinions with me.
 
-## Technologies
-Here are some of the technologies I am well-versed in:
-- ⚛️ React
-- 📜 JavaScript
-- 🎨 HTML/CSS
-- 🐙 Git
+
+
+
+https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white
+
 
