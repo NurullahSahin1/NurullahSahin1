@@ -1,18 +1,33 @@
-https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/123519806/original/21b422e6242d494f43b27499e7fc7bbf93adcbd2/fix-and-debug-html-css-javascript-reactjs-code.jpg
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/185188120/original/b084c38d746e1cc36e133e7557c06c4e47a45198/create-responsive-websites-using-html-css-javascript-react.jpeg)
 
 <h1 align="center">Hi 👋, I'm Nurullah Şahin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p>🔭 🌱 I am currently continuing the training organized by Udemig Academy to become a Fronted Developer and React Developer. 👨‍🎓!</p>
-<p>⚡🌎⚡I am constantly focused on renewing and improving myself.</p>
-<p>🚀🚀🚀I have successfully completed many projects and will continue to practice my profession as a react and frontend developer 👩‍💻 very soon.</p>
-<p>🌎 👩‍💻  You can review my repositories and share your opinions with me.</p>
+- 🔭 I am currently continuing the training organized by Udemig Academy to become a Fronted Developer and React Developer.
 
-[## ⏲ What I'm doing now:
-📃 I design web pages using the HTML-5 writing language.
-📃 I create professional designs for my web pages with advanced CSS applications.
-📃 I can create active and useful web pages and create mobile designs using Javascript codes.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhtml-css-javascript-react-online-certification-course%2F&psig=AOvVaw0uQ2bQkL-oGpKIekfMJxJk&ust=1699653037829000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCXvI7zt4IDFQAAAAAdAAAAABAJ
+- 🔭 I’m currently working on **Java Script, React and React Native**
 
+- 🌱 I’m currently learning **Html, Css, Scss, Java Script and React**
+  
+- ⚡I am constantly focused on renewing and improving myself.**
+
+- 🚀 I have successfully completed many projects and will continue to practice my profession as a react and frontend developer 👩‍💻 very soon.
+
+- 👨‍💻 All of my projects are available at [https://github.com/NurullahSahin1](https://github.com/NurullahSahin1)
+
+- 🌎 You can review my repositories and share your opinions with me.
+
+- 💬 Ask me about **Html, Css, Scss, Java Script and React**
+
+- 📫 How to reach me **nsahininovation@gmail.com**
+
+<h4>⏲ What I'm doing now:</h4>
+
+-   I design web pages using the HTML-5 writing language.
+
+-   I create professional designs for my web pages with advanced CSS applications.
+  
+-   I can create active and useful web pages and create mobile designs using Javascript codes.]
 
 
 
@@ -20,15 +35,7 @@ https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/123519806/original/2
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurullahsahin1" alt="nurullahsahin1" /></a> </p>
 
-- 🔭 I’m currently working on **Java Script, React and React Native**
 
-- 🌱 I’m currently learning **Html, Css, Scss, Java Script and React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/NurullahSahin1](https://github.com/NurullahSahin1)
-
-- 💬 Ask me about **Html, Css, Scss, Java Script and React**
-
-- 📫 How to reach me **nsahininovation@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
